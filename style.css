@@ -233,3 +233,15 @@ transform: scale(1);
         font-size: 1rem;
     }
 }
+
+@media (max-width: 350px){
+#resultado {
+    font-size: 1rem;
+}
+
+.btn {
+    width: 68px;
+    height: 68px;
+    font-size: 0.7rem;
+}
+}
