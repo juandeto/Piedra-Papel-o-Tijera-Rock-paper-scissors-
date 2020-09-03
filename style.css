@@ -62,15 +62,15 @@ overflow: hidden;
 #resultado{
     color: var(--pink);
     font-size: 30px;
-    width: 300px;
+    width: 100%;
     text-align: center;
     align-self: flex-end;
-    margin: 10px;
+    margin: 10px auto;
     display: block;
     height: 15%;
     position: absolute;
     bottom: 10%;
-    left:24% ;
+    left:0% ;
 }
 #resultado span{
     color: var(--pink);
